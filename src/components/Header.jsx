@@ -7,8 +7,7 @@ export default function Header() {
   
   const categories = [
     'All Categories',
-    'Deals', 
-    'Crypto',
+    'Deals',
     'Fashion',
     'Health & Wellness',
     
