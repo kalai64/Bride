@@ -17,7 +17,7 @@ export default function Header() {
     <header className="flex items-center justify-between px-4 lg:px-8 py-5 bg-white relative">
       {/* Left side: Logo */}
       <div className="flex items-center space-x-4">
-        <div className="text-2xl font-bold tracking-tight">Bride</div>
+        <div className="text-2xl font-bold tracking-tight">MLC</div>
 
         {/* Desktop Nav (only lg and above) */}
         <nav className="hidden lg:flex items-center space-x-4">
