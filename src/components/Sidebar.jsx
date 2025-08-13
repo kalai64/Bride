@@ -6,7 +6,8 @@ export default function Sidebar() {
     { name: 'New Balance', icon: 'N', checked: true },
     { name: 'Nike', icon: '✓', checked: true },
     { name: 'Xiaomi', icon: 'Mi', checked: true },
-    { name: 'Asics', icon: 'A', checked: false }
+    { name: 'Asics', icon: 'A', checked: false },
+    { name: 'Bsics', icon: 'B', checked: false }
   ]
 
   return (
