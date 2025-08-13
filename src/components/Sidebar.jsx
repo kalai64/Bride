@@ -18,7 +18,7 @@ export default function Sidebar() {
           <h3 className="text-lg font-semibold text-gray-900">Price Range</h3>
           <button className="text-purple-600 text-sm font-medium hover:text-purple-700 transition-colors">Reset</button>
         </div>
-        <p className="text-sm text-gray-500 mb-6">The average price is $300</p>
+        <p className="text-sm text-gray-500 mb-6">The average price $300</p>
         
         <div className="relative mb-4">
           <div className="flex items-center justify-between mb-4">
