@@ -11,7 +11,7 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-br from-purple-400 via-purple-500 to-purple-600 relative overflow-hidden">
       
       {/* Main container */}
-      <div className="relative mx-auto p-2 sm:p-4 md:p-6 lg:p-8">
+      <div className="relative mx-auto p-2 sm:p-4 md:p-6 lg:p-4">
         <div className="bg-white rounded-3xl shadow-2xl overflow-hidden">
           <Header />
 
