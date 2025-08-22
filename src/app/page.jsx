@@ -38,7 +38,7 @@ export default function Home() {
           {/* Content Section */}
           <div className="flex flex-col lg:flex-row min-h-[500px]">
             {/* If you want sidebar for larger screens */}
-            
+            {/* <Sidebar /> */}
             <ProductGrid />
           </div>
         </div>
