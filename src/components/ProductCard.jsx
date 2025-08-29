@@ -24,6 +24,7 @@ export default function ProductCard({
         <button className="absolute top-6 right-6 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
           <Heart className="w-6 h-6 text-white/80 hover:text-white transition-colors" />
         </button>
+        
 
         {/* Rating Badges */}
         {ratings && (
