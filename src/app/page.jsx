@@ -6,6 +6,7 @@ import Sidebar from '../components/Sidebar'
 import ProductGrid from '../components/ProductGrid'
 import Image from 'next/image'
 
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-purple-400 via-purple-500 to-purple-600 relative overflow-hidden">
