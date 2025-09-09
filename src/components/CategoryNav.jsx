@@ -11,6 +11,7 @@ export default function CategoryNav() {
     'Music',
     'Gaming'
   ]
+  
 
   return (
     <nav className="flex items-center space-x-4 px-8 py-4 bg-white border-b border-gray-100">
