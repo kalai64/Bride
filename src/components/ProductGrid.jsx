@@ -1,7 +1,6 @@
 import ProductCard from './ProductCard'
 
 export default function ProductGrid() {
-  
   const products = [
     {
       title: 'Smart Watch WH22-6 Fitne...',

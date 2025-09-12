@@ -9,6 +9,7 @@ export default function Sidebar() {
     { name: 'Asics', icon: 'A', checked: false },
     { name: 'Bsics', icon: 'B', checked: false }
   ]
+  
 
   return (
     <div className="w-80 bg-white p-8 border-r border-gray-100">
